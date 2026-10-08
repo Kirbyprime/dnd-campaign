@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Kirbyprime.github.io/DnD_Campaign
+  baseUrl: dnd-campaign
   ignorePatterns:
     - private
     - templates
