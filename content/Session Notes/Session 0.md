@@ -1,12 +1,13 @@
 ---
-title: "<%% tp.file.title >"
 publish: true
-draft: false
+title: <%% tp.file.title >
+created: 2026-10-08T02:04:54.646Z
+modified: 2026-10-08T16:05:10.483Z
 ---
 
 ## Session Overview
 
-Discuss expectations, ideas and house rules. 
+Discuss expectations, ideas and house rules.
 
 ## Key Learnings
 

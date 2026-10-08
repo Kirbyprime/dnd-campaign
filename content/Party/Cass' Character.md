@@ -1,5 +1,6 @@
 ---
-dnd_character: true
 publish: true
-title: "<%% tp.file.title >"
+title: <%% tp.file.title >
+created: 2026-10-06T01:18:20.458Z
+modified: 2026-10-08T16:05:49.775Z
 ---
