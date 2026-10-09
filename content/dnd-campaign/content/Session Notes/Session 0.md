@@ -1,6 +1,5 @@
 ---
 publish: true
-title: <%% tp.file.title >
 created: 2026-10-08T02:04:54.646Z
 modified: 2026-10-08T16:05:10.483Z
 ---
