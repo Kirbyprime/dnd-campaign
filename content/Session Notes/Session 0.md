@@ -1,7 +1,9 @@
 ---
 publish: true
+permalink: /Session Notes/Session 0.md
 created: 2026-10-08T02:04:54.646Z
 modified: 2026-10-08T16:05:10.483Z
+published: 2026-10-10T16:15:51.258Z
 ---
 
 ## Session Overview
