@@ -2,8 +2,8 @@
 publish: true
 permalink: /NPCs/Unknown Paladin.md
 created: 2026-10-10T23:57:57.146Z
-modified: 2026-10-11T01:53:53.297Z
-published: 2026-10-11T01:53:53.297Z
+modified: 2026-10-11T03:14:28.096Z
+published: 2026-10-11T03:14:28.096Z
 ---
 
 > [!infobox]\
