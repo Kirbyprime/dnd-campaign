@@ -103,8 +103,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: its-theme
-      variation: null
+      theme: "its-theme"
+      mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
