@@ -14,7 +14,7 @@ This place appears to be a fortified settlement. From the dilapidated condition 
 
 ## Layout:
 
-![[dnd-campaign/z_Assets/Nightstone - Full.png]]
+![[Nightstone - Full.png]]
 
 ## NPCs:
 
