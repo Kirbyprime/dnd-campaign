@@ -1,5 +1,6 @@
-# Template - Scene
-
+---
+publish: false
+---
 ## Overview
 
 **Scene Type**: Conclusion, Description, Encounter, Exposition, Introduction, Other, Preparation, Revelation, Transition

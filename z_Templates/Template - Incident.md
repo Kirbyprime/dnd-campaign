@@ -1,4 +1,6 @@
-# Template - Incident
+---
+publish: false
+---
 
 ## Overview
 

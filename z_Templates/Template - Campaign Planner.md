@@ -1,3 +1,6 @@
+---
+publish: false
+---
 ### Campaign Hook
 
 What is this campaign about? What is the goal?

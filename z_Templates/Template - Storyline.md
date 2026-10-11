@@ -1,4 +1,6 @@
-# Template - Storyline
+---
+publish: false
+---
 
 ## Overview
 
