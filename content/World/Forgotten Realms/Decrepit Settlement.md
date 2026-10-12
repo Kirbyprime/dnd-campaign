@@ -26,18 +26,23 @@ In the center of the square stands a simple stone fountain. Whatever was used to
 
 - Blacksmith (Northwest building)
 - Apothecary (Southeast building)
-%%Apothecary contains 2 healing potions%%
 - Barracks (Westmost building)
 - Pub (Northeast building)
 - Single Residence (Southwest building)
 - Fountain
-%%Fountain contains copper pieces equal to 1g%%
+
 ## Local Politics:
 
 ## Current Events:
 
 ## Defenses:
-%%Mimic, Phase Spider, 3 Stirges (65g, Ancient Compass)%%
-%%2 Cultist Fanatics, 5 Guards (59g)%%
-%%Bone Naga, 5 Zombies (73g)%%
+
 ## Notable Features:
+
+%%DM Notes%%
+%%Apothecary contains 2 healing potions%%
+%%Fountain contains copper pieces equal to 1g%%
+
+%%2 Cultist Fanatics, 5 Guards (59g) on entering pub%%
+%%Mimic, Phase Spider, 3 Stirges (65g, Ancient Compass) in barracks%%
+%%Bone Naga, 5 Zombies (73g) in the residence and will attack the party after they exit the barracks%%
