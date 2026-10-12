@@ -1,0 +1,50 @@
+{
+  "size": {
+    "w": 7990,
+    "h": 5635
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_t9ehh4",
+      "x": 0.3001750499501827,
+      "y": 0.23582063333140438,
+      "layer": "default",
+      "link": "Decrepit Settlement",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "dnd-campaign/content/Assets/map_faerun.webp",
+      "name": "Faerun"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "dnd-campaign/content/Assets/map_faerun.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
