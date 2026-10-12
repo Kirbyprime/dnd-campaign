@@ -11,9 +11,8 @@ draft: false
 > ![[Assets/ancientCompass.png]]
 
 ## Overview
-
-**Price**: N/A
-**Weight**: 200g
+* **Price**: -
+* **Weight**: 200g
 
 ## Description
 

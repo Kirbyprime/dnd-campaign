@@ -6,8 +6,8 @@ publish: false
 > ![[imagePlaceholder.png]] 
 
 ## Overview
-**Price**: Placeholder
-**Weight**: Placeholder
+* **Price**: -
+* **Weight**: 200g
 
 Placeholder
 
