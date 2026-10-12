@@ -4,7 +4,7 @@ permalink: /Items/Antique Compass.md
 created: 2026-10-12T00:15:26.324Z
 modified: 2026-10-12T00:35:40.500Z
 published: 2026-10-12T00:35:40.500Z
-draft: false
+draft: true
 ---
 
 > [!infobox]
