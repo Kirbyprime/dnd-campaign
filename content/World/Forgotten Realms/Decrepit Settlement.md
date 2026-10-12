@@ -12,9 +12,7 @@ _Type_: [[Ruins]]
 
 This place appears to be a fortified settlement. From the dilapidated condition of the buildings and crumbling walls, it would seem that it has been abandoned long ago.
 
-The remnants of some buildings still remain. The largest of which appears to be a barracks located to the side of the settlement. 4 other buildings appear huddled around the town square.
-
-In the center of the square stands a simple stone fountain. Whatever was used to provide water to the fountain has long since stopped and  it is now dry.
+The remnants of some buildings still remain, though most have long since been reduced to rubble.
 
 ## Layout:
 
@@ -29,7 +27,6 @@ In the center of the square stands a simple stone fountain. Whatever was used to
 - Barracks (Westmost building)
 - Pub (Northeast building)
 - Single Residence (Southwest building)
-- Fountain
 
 ## Local Politics:
 
@@ -38,6 +35,8 @@ In the center of the square stands a simple stone fountain. Whatever was used to
 ## Defenses:
 
 ## Notable Features:
+
+In the center of the square stands a simple stone fountain. Whatever was used to provide water to the fountain has long since stopped and  it is now dry.
 
 %%DM Notes%%
 %%Apothecary contains 2 healing potions%%
