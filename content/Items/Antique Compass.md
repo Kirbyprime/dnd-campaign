@@ -9,6 +9,8 @@ draft: true
 
 > [!infobox]
 > ![[Assets/ancientCompass.png]]
+> 
+> ###### [[Antique Compass - Notes| DM Notes]]
 
 ## Overview
 * **Price**: -

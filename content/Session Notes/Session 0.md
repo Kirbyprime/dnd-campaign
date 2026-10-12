@@ -28,3 +28,5 @@ Discuss expectations, ideas and house rules.
 - Nat20s on attack rolls count add an additional max roll base damage die to the final.
   - normal: Rogue attacks for 1d4 +3 (dex modifier) + 1d6 (sneak attack)
   - critical: Rogue attacks for 1d4 + 4(max roll) + 3 (dex modifier) + 1d6 (sneak attack)
+- No encumbrance, but common sense rules apply. No you cannot carry 20 suits of platemail
+- Unlimited basic ammo.

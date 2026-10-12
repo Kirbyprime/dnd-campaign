@@ -27,6 +27,8 @@ published: 2026-10-11T22:48:44.419Z
 > ---|---|
 > Alignment | Chaotic Evil |
 > Class | Paladin |
+> 
+> ###### [[Herald of Excess - Notes| DM Notes]]
 
 ## Profile
 
