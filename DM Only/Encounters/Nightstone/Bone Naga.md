@@ -1,0 +1,23 @@
+
+| Type       | Encounter      |
+| ---------- | -------------- |
+| Status     | Ready          |
+| Location   | [[Nightstone]] |
+| Difficulty | Moderate       |
+| Experience | 1350           | 
+
+## Setup
+As the party prepares to leave the settlement after securing the artifact, they hear a rumbling from the ground by the fountain. As the rumble grows louder, a Bone Naga bursts forth and screeches, summoning undead and attacking the party.
+
+## Enemies
+* Bone Naga
+* 5 Zombies
+
+## Tactics
+The bone naga attacks normally, but the zombies will mindlessly attack the person holding the [[Antique Compass]].
+
+## Loot
+* bobbles and trinkets worth 73g on the rotting corpses.
+
+## Expected Outcomes
+Party defeats the foes.

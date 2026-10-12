@@ -14,7 +14,7 @@ published: 2026-10-11T03:14:28.096Z
 >
 > Type |  Stat |
 > ---|---|
-> Location | [[Decrepit Settlement]] |
+> Location | [[Nightstone]] |
 > Affiliation | [[Church of Tyr]] |
 > Sex | Female |
 > Race | Human |

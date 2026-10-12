@@ -14,7 +14,7 @@ published: 2026-10-11T22:48:44.419Z
 >
 > Type |  Stat |
 > ---|---|
-> Location | [[Decrepit Settlement]] |
+> Location | [[Nightstone]] |
 > Affiliation | [[Outer Gods]] |
 > Sex | N/A |
 > Race | Fiend |
