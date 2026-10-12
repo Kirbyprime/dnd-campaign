@@ -20,6 +20,11 @@ This place appears to be a fortified settlement. From the dilapidated condition 
 
 ## Locations:
 
+- Blacksmith
+- Apothecary
+- Barracks
+- Pub
+
 ## Local Politics:
 
 ## Current Events:

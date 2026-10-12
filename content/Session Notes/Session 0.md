@@ -21,3 +21,10 @@ Discuss expectations, ideas and house rules.
 - Characters start at level 3.
 - Characters level via experience up to level 5. Will reassess at that time.
 - Characters are strangers to each other but have the same patron.
+
+## House Rules
+
+- Potions of Healing can be used as a bonus action using a dice roll or max roll using a full action. All other potions including potion of regeneration are handled normally.
+- Nat20s on attack rolls count add an additional max roll base damage die to the final.
+  - normal: Rogue attacks for 1d4 +3 (dex modifier) + 1d6 (sneak attack)
+  - critical: Rogue attacks for 1d4 + 4(max roll) + 3 (dex modifier) + 1d6 (sneak attack)
