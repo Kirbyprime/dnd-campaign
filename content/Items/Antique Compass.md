@@ -7,7 +7,7 @@ published: 2026-10-12T00:35:40.500Z
 draft: false
 ---
 
-> [!infobox]\
+> [!infobox]
 > ![[Assets/ancientCompass.png]]
 
 ## Overview
