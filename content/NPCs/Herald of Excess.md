@@ -13,7 +13,7 @@ published: 2026-10-11T22:48:44.419Z
 > ###### Basic Information
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Location | [[Decrepit Settlement]] |
 > Affiliation | [[Outer Gods]] |
 > Sex | N/A |
@@ -24,15 +24,19 @@ published: 2026-10-11T22:48:44.419Z
 > ###### Rules Info
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Alignment | Chaotic Evil |
 > Class | Paladin |
 
 ## Profile
 
-In life, a devoted paladin in the service of [[Tyr]]. Following the ritual that summoned the Herald to the material plane, it consumed the soul of [[Karen the Relentless]] and possessed her body, regenerating and twisting her body to mock her faith.
+In life, a devoted paladin in the service of [[Tyr]]. In death, an abomination of the human form, equal parts seductive and revolting. 
 
-The herald has no name. It exists solely to enact the will of the [[Outer Gods]].
+Following the ritual that summoned the Herald to the material plane, it consumed the soul of [[Karen the Relentless]] and possessed her body, regenerating and twisting her body to mock her faith.
+
+The herald has no name. It exists solely to enact the will of the [[Outer Gods]]. Its plans are chaotic and unknowable. At times, it will butcher whole villages in the dead of  night, only to turn around and save children from would be slavers.
+
+It is said that the herald is waiting for the anointed time, when the age of light will come to an end and darkness reigns.
 
 ## Relations
 
