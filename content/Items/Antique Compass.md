@@ -2,8 +2,8 @@
 publish: true
 permalink: /Items/Antique Compass.md
 created: 2026-10-12T00:15:26.324Z
-modified: 2026-10-12T00:33:09.392Z
-published: 2026-10-12T00:33:09.392Z
+modified: 2026-10-12T00:35:40.500Z
+published: 2026-10-12T00:35:40.500Z
 draft: false
 ---
 
@@ -12,7 +12,7 @@ draft: false
 
 ## Overview
 
-**Price**: -
+**Price**: N/A
 **Weight**: 200g
 
 ## Description
