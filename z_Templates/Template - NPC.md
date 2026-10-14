@@ -19,7 +19,7 @@ publish: false
 > Alignment | Unknown |  
 > Class | Unknown | 
 > 
-> ###### [[INSERT LINK | DM Notes]]
+> ###### [[- | DM Notes]]
 ## Profile  
 ## Relations
 ## Possessions

@@ -18,7 +18,7 @@ Although the guards the busy searching the area, they are aware enough to see th
 
 ## Loot
 * coins and gems looted from the building worth 59g
-* a scroll with orders to find and secure the guiding stone, an artifact rumored to be somewhere in the area.
+* a scroll with orders to find and secure an artifact in the shape of a compass, rumored to be somewhere in the area.
 
 ## Expected Outcomes
 Party defeats the foes.
