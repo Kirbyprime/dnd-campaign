@@ -7,7 +7,7 @@ published: 2026-10-10T16:15:51.257Z
 ---
 
 > [!infobox]   
-> ![[imagePlaceholder.png]] 
+> ![[wah.PNG]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
