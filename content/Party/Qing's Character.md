@@ -11,8 +11,7 @@ published: 2026-10-10T16:15:51.257Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
-> Location | Unknown |  
-> Affiliation | Unknown |  
+> Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  
 > Age | Unknown |  
