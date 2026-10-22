@@ -13,7 +13,7 @@ published: 2026-10-10T16:15:51.257Z
 > ---|---|  
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
-> Race | Unknown |  
+> Race | Gnome |  
 > Age | Unknown |  
 > Condition | Unknown |  
 > ###### Rules Info  
