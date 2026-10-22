@@ -7,7 +7,7 @@ published: 2026-10-10T16:15:51.257Z
 ---
 
 > [!infobox]   
-> ![[wah.PNG]] 
+> ![[surprised_gnome.png]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
