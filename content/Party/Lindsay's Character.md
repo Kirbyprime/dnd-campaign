@@ -11,6 +11,7 @@ published: 2026-10-10T16:16:45.986Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Lindsay |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  

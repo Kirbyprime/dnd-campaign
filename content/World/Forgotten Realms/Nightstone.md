@@ -9,6 +9,8 @@ draft: true
 
 _Type_: [[Ruins]]
 
+![[Nightstone Ruins.png]]
+
 ## Description
 
 Nightstone was a fortified settlement located south of the Ardeep Forest next to the Ardeep River. From the dilapidated condition of the buildings and crumbling walls, it would seem that it has been abandoned long ago.
@@ -16,10 +18,6 @@ Nightstone was a fortified settlement located south of the Ardeep Forest next to
 The remnants of some buildings still remain, though most have long since been reduced to rubble.
 
 In the center of the square stands a simple stone fountain. Whatever was used to provide water to the fountain has long since stopped and  it is now dry.
-
-## Layout:
-
-![[Assets/Nightstone - Full.png]]
 
 ## NPCs:
 

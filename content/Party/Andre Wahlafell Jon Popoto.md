@@ -11,6 +11,7 @@ published: 2026-10-10T16:15:51.257Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Qing |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Gnome |  
@@ -21,6 +22,7 @@ published: 2026-10-10T16:15:51.257Z
 > ---|---|  
 > Alignment | Unknown |  
 > Class | Unknown | 
+
 ## Profile  
 ## Relations
 ## Possessions

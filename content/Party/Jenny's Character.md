@@ -11,6 +11,7 @@ published: 2026-10-10T16:16:43.263Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Jenny |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  

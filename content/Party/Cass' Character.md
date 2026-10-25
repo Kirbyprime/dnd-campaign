@@ -11,6 +11,7 @@ published: 2026-10-10T16:16:38.316Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Cass |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  

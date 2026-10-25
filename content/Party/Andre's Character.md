@@ -11,6 +11,7 @@ published: 2026-10-10T16:15:51.248Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Andre |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  

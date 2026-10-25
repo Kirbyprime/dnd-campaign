@@ -11,6 +11,7 @@ published: 2026-10-10T16:15:51.249Z
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
+> Owner | Charlie |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  
