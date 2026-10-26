@@ -5,5 +5,5 @@
 * General resource and tool suite for DnD 2024
 * Note: Remember to filter by Player's Handbook (2014/2024) 
 
-## [D7D 5.5e Character Creation Wizard](https://nat1gaming.com/dnd/tool/dnd-character-creator/)
+## [D&D Character Creator](https://dnd2024-character-creator.azurewebsites.net/)
 * Used for character creation. Please use either Point Buy or Standard Array for ability scores. Recommend using Standard Array.
