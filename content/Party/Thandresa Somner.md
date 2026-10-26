@@ -7,7 +7,7 @@ published: 2026-10-10T16:16:45.986Z
 ---
 
 > [!infobox]   
-> ![[imagePlaceholder.png]] 
+> ![[LindsayCharacter.png]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
