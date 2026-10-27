@@ -42,6 +42,6 @@ What are the major moving forces in this campaign?
 **Doom:**  The cult is now controls a castle. The party will need to infiltrate it to secure the [[Elder Sign]].
 
 **Three Grim Portents:**
-* A small group of fanatics plan to burn down a village where the current wielder of the [[Elder Sign]] resides in.
+* A small group of fanatics plan to burn down [[Bōs]], a village where the current wielder of the [[Elder Sign]] resides in.
 * The [[Elder Sign]] is transferred to one of the Cultists who proceeds to pillage the countryside and grow their forces.
 * Strengthened and emboldened, the fanatics siege an isolated castle, intending to make it their new headquarters.
