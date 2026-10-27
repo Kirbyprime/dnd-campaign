@@ -7,7 +7,7 @@
 | Experience | 1025           | 
 
 ## Setup
-The cultists are directing the guards to search the building. The building in question has been ransacked. Any foodstuff or preserves have long since decomposed back to dirt.
+The cultists are directing the guards to search the building. The building in question has been ransacked. Any foodstuff or preserves have long since decomposed back to dirt. If the party attempts to talk to them, the cultists will start rambling and use a command spell to force them to fight.
 
 ## Enemies
 * 2 Cultist Fanatics

@@ -23,12 +23,6 @@ In the center of the square stands a simple stone fountain. Whatever was used to
 
 ## Locations:
 
-- Smithy (Northwest building)
-- Apothecary (Southeast building)
-- Barracks (Westmost building)
-- Pub (Northeast building)
-- Single Residence (Southwest building)
-
 ## Local Politics:
 
 ## Current Events:
