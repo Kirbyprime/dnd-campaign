@@ -1,17 +1,17 @@
 ---
 publish: true
-permalink: /Party/Andre's Character.md
-created: 2026-10-06T01:12:23.333Z
-modified: 2026-10-08T16:05:34.881Z
-published: 2026-10-10T16:15:51.248Z
+permalink: /Party/Jenny's Character.md
+created: 2026-10-06T01:18:20.458Z
+modified: 2026-10-08T16:06:18.740Z
+published: 2026-10-10T16:16:43.263Z
 ---
 
 > [!infobox]   
-> ![[imagePlaceholder.png]] 
+> ![[DnD-Bellatrixy.jpg]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
-> Owner | Andre |
+> Owner | Jenny |
 > Affiliation | [[The Party]] |  
 > Sex | Unknown |  
 > Race | Unknown |  
