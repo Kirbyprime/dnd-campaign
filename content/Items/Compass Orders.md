@@ -15,4 +15,4 @@ A weathered parchment made of an unknown animal hide. The writing on it is in Co
 
 > Find the Compass in Nightstone
 
-The parchment also has a simple map showing that [[Nightstone]] is located south of the Ardeep Forest.
+The parchment also has a drawing showing that [[Nightstone]] is located south of the Ardeep Forest.
