@@ -26,7 +26,7 @@ published: 2026-10-10T16:15:51.248Z
 
 Qing the Second spent most of his life in an unknown temple. He is not sure why the monks called him "The Second" but Qing did not mind. As with most monks, he spent his days mediating and training his mind to be free of worldly distractions. 
 
-After hearing [[The Whispers | the Whispers]], he had an epiphany and instead started training his body instead of his mind. As the Whispers encouraged him and his is new found path, his peers and elders started to fear him and his potential. In an effort to protect themselves from the taint, Qing was banished from the temple.
+After hearing [[The Whispers | the Whispers]], he had an epiphany and instead started training his body instead of his mind. As the Whispers encouraged him on his  new found path, his peers and elders started to fear him and his potential. In an effort to protect themselves from the taint, Qing was banished from the temple.
 
 With nowhere to go and abandoned by his temple, Qing followed the voices in his head and started travelling towards the horizon, beating up everyone in his path in the name of training.
 
