@@ -20,11 +20,11 @@ published: 2026-10-10T16:15:51.248Z
 > ###### Rules Info  
 > Type |  Stat |  
 > ---|---|  
-> Alignment | Unknown |  
+> Alignment | Neutral Evil |  
 > Class | Monk | 
 ## Profile  
 
-Qing the Second spent most of his life in an unknown temple. As with most monks, he spent his days mediating and training his mind to be free of worldly distractions. 
+Qing the Second spent most of his life in an unknown temple. He is not sure why the monks called him "The Second" but Qing did not mind. As with most monks, he spent his days mediating and training his mind to be free of worldly distractions. 
 
 After hearing [[The Whispers | the Whispers]], he had an epiphany and instead started training his body instead of his mind. As the Whispers encouraged him and his is new found path, his peers and elders started to fear him and his potential. In an effort to protect themselves from the taint, Qing was banished from the temple.
 
