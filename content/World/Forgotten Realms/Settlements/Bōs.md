@@ -7,8 +7,6 @@ published: 2026-10-10T17:39:39.028Z
 draft: true
 ---
 
-_Type_: [[Village]]
-
 ![[imagePlaceholder.png]]
 
 ## Description

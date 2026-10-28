@@ -3,8 +3,6 @@ publish: false
 draft: true
 ---
 
-_Type_: [[City | Dungeon | Ruins | etc.]]
-
 ## Description
 
 ## Layout:
