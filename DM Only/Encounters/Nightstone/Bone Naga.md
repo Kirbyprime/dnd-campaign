@@ -14,10 +14,13 @@ As the party prepares to leave the settlement after securing the artifact, they 
 * 5 Zombies
 
 ## Tactics
-The bone naga attacks normally, but the zombies will mindlessly attack the person holding the [[Antique Compass]].
+The bone naga uses the first turn to "summon" the zombies, then attacks normally, but the zombies will mindlessly attack the person holding the [[Ancient Compass]].
 
 ## Loot
 * bobbles and trinkets worth 73g on the rotting corpses.
 
 ## Expected Outcomes
 Party defeats the foes.
+
+## Image
+![[bone-naga-fountain.png]]

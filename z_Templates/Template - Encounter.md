@@ -13,3 +13,7 @@
 ## Tactics
 
 ## Expected Outcomes
+
+## Actual Outcome
+
+## Image

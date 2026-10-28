@@ -11,3 +11,4 @@ By now, she has lost track of how much time has passed since awakening, but she 
 Since she believes that her dream is reality and reality is a dream, she does not feel guilt or remorse for anything she does in this world, as long as she accomplishes what the voice tells her. She is convinced that "the end" that the whispers have told her about is the end of her dream, and once she reaches it, she will awaken back into the beautiful world she'd seen, with her family she'd left behind.
 
 ## Character Sheet
+![[D&D - Thandresa_Somner_sheet.pdf]]

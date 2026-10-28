@@ -26,7 +26,10 @@ The Phase Spider attacks if the webs are disturbed. Either by the party touching
 The Stirges will attack if any other enemy is triggered or if the party chooses to disturb the cavity in the stairwell.
 
 ## Loot
-* 65g and an [[Antique Compass]] can be found in the cavity of the Mimic.
+* 65g and an [[Ancient Compass]] can be found in the cavity of the Mimic.
 
 ## Expected Outcomes
-Party defeats the foes and loots the [[Antique Compass]].
+Party defeats the foes and loots the [[Ancient Compass]] from inside the Mimic.
+
+## Image
+![[phase_spider.png]]

@@ -6,4 +6,4 @@ publish: true
 
 ## About
 
-Nothing is known about this group of random strangers.
+Nothing is known about this group of strangers.

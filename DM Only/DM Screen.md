@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Checks
 
 - [ ] [[Monster Knowledge]]
+- [ ] [[Ability Checks]]
 
 
 ## Conditions
@@ -14,10 +15,15 @@ kanban-plugin: board
 - [ ] [[Surprised]]
 
 
+## Misc Combat
+
+- [ ] [[Objects]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
