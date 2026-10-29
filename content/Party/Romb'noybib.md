@@ -13,7 +13,7 @@ published: 2026-10-10T16:15:51.249Z
 > ---|---|  
 > Owner | Charlie |
 > Affiliation | [[The Party]] |  
-> Sex | Female |  
+> Sex | Fe...male? |  
 > Race | Unknown |  
 > Age | Unknown |  
 > Condition | Healthy |  
