@@ -7,16 +7,16 @@ published: 2026-10-10T16:15:51.249Z
 ---
 
 > [!infobox]   
-> ![[imagePlaceholder.png]] 
+> ![[Gemini_Generated_Image_94hv1o94hv1o94hv.jpg]] 
 > ###### Basic Information  
 > Type |  Stat |  
 > ---|---|  
 > Owner | Charlie |
 > Affiliation | [[The Party]] |  
-> Sex | Unknown |  
+> Sex | Female |  
 > Race | Unknown |  
 > Age | Unknown |  
-> Condition | Unknown |  
+> Condition | Healthy |  
 > ###### Rules Info  
 > Type |  Stat |  
 > ---|---|  
