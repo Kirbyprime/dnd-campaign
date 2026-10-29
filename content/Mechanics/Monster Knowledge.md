@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## **Monster Check**
 
 Once the player actually finds the monster or sees the result of his actions (disadvantage in roll if he does not see the monster directly) he does an automatic monster check. The Skill required follows depends against which type of creature the player is dealing with, you can find the necessary skill for each type in the table below. The check is vetoed when the DM believes that players have no way of hearing about a creature.
