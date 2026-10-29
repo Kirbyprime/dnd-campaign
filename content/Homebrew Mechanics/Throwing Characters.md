@@ -4,7 +4,7 @@ publish: true
 ##### Willing Characters
 
 ###### Requirement
-- The thrower must have proficient with improvised weapons.
+- The thrower must be proficient with improvised weapons.
 - The creature must be conscious and willing.
 - The creature must be at least one size smaller than the thrower.
 
