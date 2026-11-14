@@ -15,7 +15,6 @@ resizeHandle: right
 render: dom
 imageRendering: auto
 id: map-0
-markers: Assets/map_faerun_empty.jpg.markers.json
 ```
 %%
 ZOOMMAP-DATA id=map-0
