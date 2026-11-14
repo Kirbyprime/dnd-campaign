@@ -8,8 +8,9 @@ published: 2026-11-14T20:37:43.828Z
 
 ```zoommap
 imageBases:
-  - path: map_faerun_empty.jpg
+  - path: dnd-campaign/content/Assets/map_faerun_empty.jpg
     name: Faerun
+markers: dnd-campaign/content/Assets/map_faerun_empty.markers.json
 minZoom: 0.3
 maxZoom: 20
 markerLayers:
@@ -20,6 +21,4 @@ resizable: true
 resizeHandle: right
 render: dom
 imageRendering: auto
-id: map-0
-markers: map_faerun_empty.markers.json
 ```
