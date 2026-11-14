@@ -6,7 +6,7 @@ storage: note
 minZoom: 0.3
 maxZoom: 20
 height: 1018px
-width: 1938px
+width: 100%
 markerLayers:
   - Default
 wrap: false
