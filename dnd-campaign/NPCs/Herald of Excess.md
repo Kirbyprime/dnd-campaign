@@ -8,7 +8,7 @@ published: 2026-10-11T22:48:44.419Z
 ---
 
 > [!infobox]
-> ![[Assets/corruptedPaladin.png]]
+> ![[corruptedPaladin.png]]
 >
 > ###### Basic Information
 >

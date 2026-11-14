@@ -8,7 +8,7 @@ published: 2026-10-29T17:45:45.273Z
 ---
 
 > [!infobox]
-> ![[Assets/Ilvara_Male.png]]
+> ![[Ilvara_Male.png]]
 >
 > ###### Basic Information
 >

@@ -7,7 +7,7 @@ published: 2026-10-10T17:39:39.028Z
 draft: false
 ---
 
-![[Assets/Nightstone Ruins.png]]
+![[Nightstone Ruins.png]]
 
 ## Description
 

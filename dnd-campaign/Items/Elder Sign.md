@@ -8,7 +8,7 @@ published: 2026-10-28T00:06:06.227Z
 ---
 
 > [!infobox]
-> ![[Assets/elderSign.png]]
+> ![[elderSign.png]]
 
 ## Overview
 

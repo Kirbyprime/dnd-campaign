@@ -7,7 +7,7 @@ modified: 2026-10-10T17:39:39.028Z
 published: 2026-10-10T17:39:39.028Z
 ---
 
-![[Assets/imagePlaceholder.png]]
+![[imagePlaceholder.png]]
 
 ## Description
 

@@ -8,7 +8,7 @@ published: 2026-10-11T03:14:28.096Z
 ---
 
 > [!infobox]
-> ![[Assets/karen.png]]
+> ![[karen.png]]
 >
 > ###### Basic Information
 >

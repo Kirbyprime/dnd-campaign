@@ -7,7 +7,7 @@ published: 2026-10-28T21:56:31.494Z
 ---
 
 > [!infobox]
-> ![[Assets/Weathered Map to Nightstone.png]]
+> ![[Weathered Map to Nightstone.png]]
 
 ## Overview
 

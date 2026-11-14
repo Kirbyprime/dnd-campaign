@@ -8,7 +8,7 @@ draft: false
 ---
 
 > [!infobox]
-> ![[Assets/ancientCompass.png]]
+> ![[ancientCompass.png]]
 
 ## Overview
 
