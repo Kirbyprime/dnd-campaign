@@ -1,9 +1,6 @@
 ---
 publish: true
 permalink: /Map/Faerun.md
-created: 2026-11-14T18:23:37.452Z
-modified: 2026-11-14T20:37:43.828Z
-published: 2026-11-14T20:37:43.828Z
 ---
 
 ```zoommap
