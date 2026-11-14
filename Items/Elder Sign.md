@@ -7,7 +7,7 @@ modified: 2026-10-28T00:06:06.227Z
 published: 2026-10-28T00:06:06.227Z
 ---
 
-> [!infobox]\
+> [!infobox]
 > ![[Assets/elderSign.png]]
 
 ## Overview

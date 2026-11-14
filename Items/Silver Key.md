@@ -7,7 +7,7 @@ modified: 2026-10-28T00:06:09.252Z
 published: 2026-10-28T00:06:09.252Z
 ---
 
-> [!infobox]\
+> [!infobox]
 > ![[Assets/silverKey.png]]
 
 ## Overview

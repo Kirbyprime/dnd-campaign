@@ -7,7 +7,7 @@ modified: 2026-10-28T00:06:03.250Z
 published: 2026-10-28T00:06:03.250Z
 ---
 
-> [!infobox]\
+> [!infobox]
 > ![[Assets/bookOfEidon.png]]
 
 ## Overview
