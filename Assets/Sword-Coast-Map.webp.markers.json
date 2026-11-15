@@ -5,12 +5,6 @@
   },
   "layers": [
     {
-      "id": "default",
-      "name": "Default",
-      "visible": true,
-      "locked": false
-    },
-    {
       "id": "layer_u8efye",
       "name": "Ruins",
       "visible": true,
@@ -24,11 +18,10 @@
       "x": 0.4707339678858708,
       "y": 0.38010258948742004,
       "layer": "layer_u8efye",
-      "link": "",
+      "link": "Nightstone",
       "iconKey": "pinRed",
       "tooltip": "Nightstone",
-      "tooltipLabelAlways": true,
-      "tooltipLabelPosition": "above"
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
