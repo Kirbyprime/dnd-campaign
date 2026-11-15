@@ -1,0 +1,51 @@
+{
+  "size": {
+    "w": 10200,
+    "h": 6600
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_j29uc9",
+      "x": 0.4707339678858708,
+      "y": 0.38010258948742004,
+      "layer": "default",
+      "link": "/dnd-campaign/World/Forgotten Realms/Settlements/Nightstone.md",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    }
+  ],
+  "bases": [
+    {
+      "path": "Assets/Sword-Coast-Map.webp",
+      "name": "Faerun"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Sword-Coast-Map.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
