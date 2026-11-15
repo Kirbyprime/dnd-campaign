@@ -1,6 +1,6 @@
 ---
 publish: true
-permalink: /Lore/The Whispers.md
+permalink: /dnd-campaign/Lore/The Whispers.md
 created: 2026-10-28T13:17:56.757Z
 modified: 2026-10-28T14:41:13.879Z
 published: 2026-10-28T14:41:13.879Z
