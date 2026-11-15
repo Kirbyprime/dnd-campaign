@@ -22,7 +22,7 @@
       "iconKey": "pinRed",
       "tooltip": "Nightstone",
       "tooltipLabelPosition": "above",
-      "tooltipLabelAlways": true
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
