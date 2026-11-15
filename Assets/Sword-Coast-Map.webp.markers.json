@@ -26,12 +26,12 @@
   ],
   "bases": [
     {
-      "path": "Assets/Sword-Coast-Map.webp",
+      "path": "Assets/map_faerun_empty.jpg",
       "name": "Faerun"
     }
   ],
   "overlays": [],
-  "activeBase": "Assets/Sword-Coast-Map.webp",
+  "activeBase": "Assets/map_faerun_empty.jpg",
   "measurement": {
     "displayUnit": "km",
     "scales": {},
