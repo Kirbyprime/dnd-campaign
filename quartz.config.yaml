@@ -267,7 +267,7 @@ plugins:
       inlineBlockHeaderId: ZOOMMAP-DATA
       maxInlineDataBytes: 0
       defaultIconKey: pin-red
-    order: 15
+    order: 55
 layout:
   groups:
     toolbar:

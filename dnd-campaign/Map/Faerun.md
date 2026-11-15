@@ -18,4 +18,8 @@ resizeHandle: right
 render: canvas
 imageRendering: auto
 id: map-4
+view:
+  zoom: 0.8559
+  centerX: 0.500155
+  centerY: 0.411775
 ```

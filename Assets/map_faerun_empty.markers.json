@@ -32,7 +32,7 @@
   "overlays": [],
   "activeBase": "Assets/map_faerun_empty.jpg",
   "measurement": {
-    "displayUnit": "km",
+    "displayUnit": "mi",
     "scales": {},
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
