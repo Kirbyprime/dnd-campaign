@@ -9,7 +9,7 @@ imageBases:
 markers: Assets/Sword-Coast-Map.webp.markers.json
 markerLayers:
   - Ruins
-minZoom: 0.25
+minZoom: 1
 maxZoom: 8
 wrap: false
 responsive: false
@@ -19,7 +19,7 @@ render: dom
 imageRendering: auto
 id: map-4
 view:
-  zoom: 1.2636
-  centerX: 0.478924
-  centerY: 0.382743
+  zoom: 1.1487
+  centerX: 0.481330
+  centerY: 0.384352
 ```

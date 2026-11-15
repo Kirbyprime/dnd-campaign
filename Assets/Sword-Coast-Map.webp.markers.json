@@ -23,14 +23,12 @@
       "id": "marker_j29uc9",
       "x": 0.4707339678858708,
       "y": 0.38010258948742004,
-      "layer": "default",
-      "link": "/dnd-campaign/World/Forgotten Realms/Settlements/Nightstone.md",
+      "layer": "layer_u8efye",
+      "link": "",
       "iconKey": "pinRed",
       "tooltip": "Nightstone",
-      "scaleLikeSticker": true,
       "tooltipLabelAlways": true,
-      "tooltipLabelPosition": "above",
-      "tooltipAlwaysOn": true
+      "tooltipLabelPosition": "above"
     }
   ],
   "bases": [
@@ -48,7 +46,9 @@
     "travelTimePresetIds": [],
     "travelDaysEnabled": false
   },
-  "pinSizeOverrides": {},
+  "pinSizeOverrides": {
+    "pinRed": 64
+  },
   "grids": [],
   "panClamp": true,
   "drawLayers": [],
