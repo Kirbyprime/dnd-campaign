@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /Map/Faerun.md
 ---
 
 ```zoommap
