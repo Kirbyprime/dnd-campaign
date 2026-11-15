@@ -10,11 +10,12 @@ markers: Assets/map_faerun_empty.markers.json
 minZoom: 0.3
 maxZoom: 20
 markerLayers:
-  - Default
+  - Ruins
 wrap: false
 responsive: false
 resizable: true
 resizeHandle: right
-render: dom
+render: canvas
 imageRendering: auto
+id: map-4
 ```
