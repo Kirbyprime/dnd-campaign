@@ -32,3 +32,4 @@ When she finally awoke to see the world around her as chaotic as she'd left it b
 
 ## Relations
 ## Possessions
+- A basic [[Sword Coast|map]] depicting the majority of the Faerûn, centered on the Sword Coast.

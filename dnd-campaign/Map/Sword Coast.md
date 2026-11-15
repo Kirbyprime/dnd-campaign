@@ -4,16 +4,16 @@ publish: true
 
 ```zoommap
 imageBases:
-  - path: Assets/map_faerun_empty.jpg
+  - path: Assets/map_sword_coast_empty.jpg
     name: Faerun
-markers: Assets/map_faerun_empty.markers.json
+markers: Assets/map_sword_coast_empty.markers.json
 markerLayers:
   - Ruins
-minZoom: .25
+minZoom: 0.25
 maxZoom: 8
 wrap: false
 responsive: false
-resizable: false
+resizable: true
 resizeHandle: right
 render: dom
 imageRendering: auto

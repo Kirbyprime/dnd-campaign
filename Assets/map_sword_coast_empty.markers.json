@@ -1,11 +1,11 @@
 {
   "size": {
-    "w": 10200,
-    "h": 6600
+    "w": 2048,
+    "h": 1325
   },
   "layers": [
     {
-      "id": "layer_u8efye",
+      "id": "default",
       "name": "Ruins",
       "visible": true,
       "locked": false
@@ -14,34 +14,33 @@
   "markers": [
     {
       "type": "pin",
-      "id": "marker_j29uc9",
-      "x": 0.4707339678858708,
-      "y": 0.38010258948742004,
-      "layer": "layer_u8efye",
-      "link": "Nightstone",
+      "id": "marker_nal2cd",
+      "x": 0.4461549941731462,
+      "y": 0.36542059170410923,
+      "layer": "default",
+      "link": "/dnd-campaign/World/Forgotten Realms/Settlements/Nightstone.md",
       "iconKey": "pinRed",
       "tooltip": "Nightstone",
-      "scaleLikeSticker": true
+      "tooltipLabelPosition": "above",
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
     {
-      "path": "Assets/map_faerun_empty.jpg",
+      "path": "Assets/map_sword_coast_empty.jpg",
       "name": "Faerun"
     }
   ],
   "overlays": [],
-  "activeBase": "Assets/map_faerun_empty.jpg",
+  "activeBase": "Assets/map_sword_coast_empty.jpg",
   "measurement": {
-    "displayUnit": "km",
+    "displayUnit": "mi",
     "scales": {},
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
     "travelDaysEnabled": false
   },
-  "pinSizeOverrides": {
-    "pinRed": 64
-  },
+  "pinSizeOverrides": {},
   "grids": [],
   "panClamp": true,
   "drawLayers": [],
@@ -49,5 +48,9 @@
   "secondScreen": {
     "showGrids": true
   },
-  "textLayers": []
+  "textLayers": [],
+  "frame": {
+    "w": 2134,
+    "h": 993
+  }
 }
