@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /World/Forgotten Realms/Decrepit Settlement.md
 draft: true
 created: 2026-10-10T16:28:15.478Z
 modified: 2026-10-10T17:39:39.028Z
