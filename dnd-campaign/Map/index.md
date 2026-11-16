@@ -1,0 +1,1 @@
+A series of maps found as part of [[Thandresa Somner|Thandresa's]] cartographer's tools. The maps are empty, devoid of landmarks, points of interests, or locations. Perhaps they were for novice cartographers to study and learn the trade. 
