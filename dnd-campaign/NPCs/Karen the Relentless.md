@@ -13,7 +13,7 @@ published: 2026-10-11T03:14:28.096Z
 > ###### Basic Information
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Location | [[Nightstone]] |
 > Affiliation | [[Church of Tyr]] |
 > Sex | Female |
@@ -24,7 +24,7 @@ published: 2026-10-11T03:14:28.096Z
 > ###### Rules Info
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Alignment | Lawful Good |
 > Class | Paladin |
 >

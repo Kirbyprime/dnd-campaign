@@ -13,7 +13,7 @@ published: 2026-10-11T22:48:44.419Z
 > ###### Basic Information
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Location | [[Nightstone]] |
 > Affiliation | [[Outer Gods]] |
 > Sex | N/A |
@@ -24,7 +24,7 @@ published: 2026-10-11T22:48:44.419Z
 > ###### Rules Info
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Alignment | Chaotic Evil |
 > Class | Paladin |
 >

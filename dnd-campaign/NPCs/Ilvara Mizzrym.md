@@ -13,7 +13,7 @@ published: 2026-10-29T17:45:45.273Z
 > ###### Basic Information
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Location | Unknown |
 > Affiliation | Unknown |
 > Sex | Unknown |
@@ -24,7 +24,7 @@ published: 2026-10-29T17:45:45.273Z
 > ###### Rules Info
 >
 > Type |  Stat |
-> \---|---|
+> ---|---|
 > Alignment | Unknown |
 > Class | Unknown |
 
