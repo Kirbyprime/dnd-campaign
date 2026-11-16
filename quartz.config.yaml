@@ -197,8 +197,8 @@ plugins:
   - source: "@quartz-community/comments"
     enabled: false
     options:
-      provider: giscus
       options: {}
+      provider: giscus
     layout:
       position: afterBody
       priority: 10
