@@ -23,3 +23,6 @@ view:
   centerX: 0.481501
   centerY: 0.384356
 ```
+
+#### Description
+A simple map of the sword coast found as part of [[Thandresa Somner|Thandresa's]] cartography tools. The map is blank, devoid of landmarks, points of interests, or other locations. Perhaps it was made to teach novice cartographers the art of map making.
