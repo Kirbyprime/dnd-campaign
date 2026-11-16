@@ -2,9 +2,6 @@
 publish: true
 permalink: /NPCs/Herald of Excess.md
 draft: "true"
-created: 2026-10-11T22:21:30.951Z
-modified: 2026-10-11T22:48:44.419Z
-published: 2026-10-11T22:48:44.419Z
 ---
 
 > [!infobox]
