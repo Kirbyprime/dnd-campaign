@@ -30,10 +30,16 @@ kanban-plugin: board
 - [ ] [[Spell Attack Roll | Attack Roll]]
 
 
+## Travel
+
+- [ ] [Map / Distance Calculator](https://www.aidedd.org/atlas/sword-coast)
+- [ ] [[Travel | Travel Cost]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
