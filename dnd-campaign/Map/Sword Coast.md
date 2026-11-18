@@ -22,6 +22,7 @@ view:
   zoom: 1.1487
   centerX: 0.481501
   centerY: 0.384356
+width: 100%
 ```
 
 #### Description
