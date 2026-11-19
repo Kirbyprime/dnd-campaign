@@ -12,7 +12,7 @@ publish: true
 
 ## Description
 
-A plain notebook with a black cover. [[Andre Wahlafell Jon Popoto|Andre]] calls it a death note and will seldom write names into it.
+A plain notebook with a black cover. [[Andre Wahlafell Jon Popoto|Andre]] calls it a death note and will seldomly write names into it.
 
 ## Known Names
 * [[Bellatrixy]]
