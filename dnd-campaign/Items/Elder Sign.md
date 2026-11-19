@@ -2,9 +2,6 @@
 publish: true
 permalink: /Items/Elder Sign.md
 draft: true
-created: 2026-10-13T01:25:53.884Z
-modified: 2026-10-28T00:06:06.227Z
-published: 2026-10-28T00:06:06.227Z
 ---
 
 > [!infobox]

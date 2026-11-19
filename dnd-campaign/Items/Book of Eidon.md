@@ -2,9 +2,6 @@
 publish: true
 permalink: /Items/Book of Eidon.md
 draft: true
-created: 2026-10-13T01:59:01.146Z
-modified: 2026-10-28T00:06:03.250Z
-published: 2026-10-28T00:06:03.250Z
 ---
 
 > [!infobox]
